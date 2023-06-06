@@ -1,6 +1,5 @@
 The Rock-Paper-Scissor Game
 
-![image](https://github.com/koraykoksal/cw_rock_paper_scissor_game/assets/88422590/371feb6e-9cce-414b-9e89-6f20acab29c1)
 
 WON
 ![image](https://github.com/koraykoksal/cw_rock_paper_scissor_game/assets/88422590/5829f160-89d2-4d2c-8f52-61ba9c3faa47)
